@@ -1,0 +1,177 @@
+Degree Name,Degree Name_BN,Speciality,Speciality_patient_view,Speciality_BN,Serial,Serial_Patient,Speciality_Explanation
+FCPS,এফসিপিএস,Internal Medicine,Medicine,মেডিসিন,1,1,মেডিসিন বিশেষজ্ঞ
+FCPS,এফসিপিএস,General Surgery,Surgery,সার্জারি,2,3,জেনারেল ও ল্যাপারোস্কোপিক সার্জন
+FCPS,এফসিপিএস,Obstetrics & Gynaecology,Obs & Gynae,গাইনি,3,2,প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ ও সার্জন
+FCPS,এফসিপিএস,Paediatrics,Paediatrics,শিশু,4,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Otolaryngology (Head & Neck Surgery),ENT,ই এন টি,5,12,"নাক, কান, গলা বিশেষজ্ঞ ও সার্জন"
+FCPS,এফসিপিএস,Ophthalmology,Ophthalmology,চক্ষু,6,8,চক্ষু বিশেষজ্ঞ ও ফ্যাকো সার্জন
+FCPS,এফসিপিএস,Dermatology and Venereology,Dermatology and Venereology,চর্ম ও যৌন,7,11,"এলার্জি, চর্ম ও যৌন রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Psychiatry,Psychiatry,সায়কিয়াট্রি,8,16,মনোরোগ বিশেষজ্ঞ
+FCPS,এফসিপিএস,Radiology & Imaging,Radiology & Imaging,রেডিওলজি ও ইমেজিং,9,17,রেডিওলজিস্ট
+FCPS,এফসিপিএস,Anesthesiology,Anesthesiology,অ্যানেস্থেসিওলজি,10,23,এনালজেসিয়া ও পেইন মেডিসিন বিশেষজ্ঞ
+FCPS,এফসিপিএস,Pediatric Surgery,Pediatric Surgery,শিশু সার্জারি,11,20,শিশু সার্জন
+FCPS,এফসিপিএস,Orthopedic Surgery,Orthopedic Surgery,অর্থোপেডিক সার্জারি,12,6,অর্থোপেডিক্স ও ট্রমা সার্জন
+FCPS,এফসিপিএস,Cardiology,Cardiology,কার্ডিওলজি,13,5,হৃদরোগ বিশেষজ্ঞ
+FCPS,এফসিপিএস,Neurology,Neurology,নিউরোলজি,14,9,ব্রেইন ও স্নায়ুরোগ বিশেষজ্ঞ
+FCPS,এফসিপিএস,Nephrology,Nephrology,নেফ্রোলজি,15,10,কিডনী রোগ বিশেষজ্ঞ
+FCPS,এফসিপিএস,Endocrinology & Metabolism,Endocrinology & Metabolism,এন্ডোক্রাইনোলজি,16,13,"ডায়াবেটিস, থাইরয়েড ও হরমোন বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Pulmonology,Pulmonology,পালমোনোলজি,17,14,বক্ষব্যাধি বিশেষজ্ঞ
+FCPS,এফসিপিএস,Gastroenterology,Gastroenterology,গ্যাস্ট্রোএন্টেরোলজি,18,15,পরিপাকতন্ত্র বিশেষজ্ঞ
+FCPS,এফসিপিএস,Haematology,Haematology,হেমাটোলজি,19,20,"রক্তরোগ, থ্যালাসেমিয়া ও ব্লাড ক্যান্সার বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Hepatology,Hepatology,হেপাটোলজি,20,21,লিভার বিশেষজ্ঞ
+FCPS,এফসিপিএস,Rheumatology,Rheumatology,রিউম্যাটোলজি,21,22,বাত ব্যাথা ও রিউম্যাটোলজি বিশেষজ্ঞ
+FCPS,এফসিপিএস,Medical Oncology,Oncology,অনকোলজি,22,16,ক্যান্সার ও টিউমার রোগ বিশেষজ্ঞ
+FCPS,এফসিপিএস,Community Medicine,Community Medicine,কমিউনিটি মেডিসিন,23,66,
+FCPS,এফসিপিএস,Pathology,Pathology,প্যাথোলজি,24,75,প্যাথোলজিস্ট
+FCPS,এফসিপিএস,Physiology,Physiology,ফিজিওলজি,25,76,
+FCPS,এফসিপিএস,Pharmacology,Pharmacology,ফার্মাকোলজি,26,70,
+FCPS,এফসিপিএস,Microbiology,Microbiology,মাইক্রোবায়োলজি,27,71,মাইক্রোবায়োলজিস্ট
+FCPS,এফসিপিএস,Biochemistry,Biochemistry,বায়োকেমিস্ট্রি,28,72,বায়োকেমিস্ট
+FCPS,এফসিপিএস,Transfusion Medicine,Transfusion Medicine,ট্রান্সফিউশন মেডিসিন,29,53,ট্রান্সফিউশন মেডিসিন বিশেষজ্ঞ
+FCPS,এফসিপিএস,Paediatric Opthalmology,Opthalmology,চক্ষু,30,8,চক্ষু বিশেষজ্ঞ ও ফ্যাকো সার্জন
+FCPS,এফসিপিএস,Vitreo-Retina,Ophthalmology,চক্ষু,31,8,চক্ষু বিশেষজ্ঞ ও ফ্যাকো সার্জন
+FCPS,এফসিপিএস,Neonatology,Paediatrics,শিশু,32,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Paediatric Cardiology,Paediatrics,শিশু,33,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Paediatric Gastroenterology,Paediatrics,শিশু,34,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Paediatric Haematology & Oncology,Paediatrics,শিশু,35,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Paediatric Nephrology,Paediatrics,শিশু,36,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Paediatric Neurology & Neuro Development,Paediatrics,শিশু,37,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Paediatric Rheumatology,Paediatrics,শিশু,38,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+FCPS,এফসিপিএস,Radiotherapy,Radiotherapy,রেডিওথেরাপি,39,48,ক্যান্সার রোগ বিশেষজ্ঞ
+FCPS,এফসিপিএস,Physical Medicine and Rehabilitation,Physical Medicine and Rehabilitation,ফিজিক্যাল মেডিসিন অ্যান্ড রিহ্যাবিলিটেশন,40,50,ফিজিক্যাল মেডিসিন অ্যান্ড রিহ্যাবিলিটেশন বিশেষজ্ঞ
+FCPS,এফসিপিএস,Neuro-Surgery,Neuro-Surgery,নিউরো সার্জারি,41,24,ব্রেইন ও স্পাইন সার্জন
+FCPS,এফসিপিএস,Cardiovascular & Thoracic Surgery,Cardiovascular & Thoracic Surgery,কার্ডিওভাসকুলার অ্যান্ড থোরাসিক সার্জারি,42,25,কার্ডিওথোরাসিক সার্জন
+FCPS,এফসিপিএস,Colorectal Surgery,Colorectal Surgery,কোলোরেকটাল সার্জারি,43,26,কোলোরেক্টাল সার্জন
+FCPS,এফসিপিএস,Hepatobiliary Surgery,Hepatobiliary Surgery,হেপাটোবিলিয়ারি সার্জারি,44,27,হেপাটোবিলিয়ারি সার্জন
+FCPS,এফসিপিএস,Urology,Urology,ইউরোলজি,45,19,"কিডনি, মূত্রনালি, মূত্রথলী বিশেষজ্ঞ ও সার্জন"
+FCPS,এফসিপিএস,Plastic & Reconstructive Surgery,Plastic & Reconstructive Surgery,প্লাস্টিক সার্জারি,46,28,বার্ন ও প্লাস্টিক সার্জন
+FCPS,এফসিপিএস,Reproductive Endocrinology and Infertility,Reproductive Endocrinology and Infertility,রিপ্রোডাকটিভ এন্ডোক্রাইনোলজি অ্যান্ড ইনফার্টিলিটি,47,35,বন্ধ্যাত্ব রোগ বিশেষজ্ঞ ও সার্জন
+FCPS,এফসিপিএস,Surgical Oncology,Surgical Oncology,সার্জিকাল অনকোলজি,48,36,ক্যান্সার সার্জারী বিশেষজ্ঞ ও সার্জন
+FCPS,এফসিপিএস,Thoracic Surgery,Thoracic Surgery,থোরাসিক সার্জারি,49,29,বক্ষব্যাধি সার্জন
+FCPS,এফসিপিএস,Vascular Surgery,Vascular Surgery,ভাসকুলার সার্জারি,50,30,ভাসকুলার সার্জন
+FCPS,এফসিপিএস,Feto-maternal Medicine,Feto-maternal Medicine,ফিটো-ম্যাটারনাল মেডিসিন,51,37,ফিটো-ম্যাটারনাল মেডিসিন বিশেষজ্ঞ
+FCPS,এফসিপিএস,Gynecological Oncology,Gynecological Oncology,গাইনিকোলজিকাল অনকোলজি,52,38,স্ত্রীরোগ ক্যান্সার বিশেষজ্ঞ
+FCPS,এফসিপিএস,Community Ophthalmology,Community Ophthalmology,কমিউনিটি অপথালমোলজি,53,92,কমিউনিটি অপথালমোলজি বিশেষজ্ঞ
+FCPS,এফসিপিএস,Anatomy,Anatomy,এনাটমি,54,67,
+FCPS,এফসিপিএস,Conservative Dentistry and Endodontics,Dentist,ডেন্টিস্ট,55,7,ওরাল এন্ড ডেন্টাল সার্জন
+FCPS,এফসিপিএস,Oral and Maxillofacial Surgery,Dentist,ডেন্টিস্ট,56,7,ওরাল এন্ড ডেন্টাল সার্জন
+FCPS,এফসিপিএস,Orthodontics,Dentist,ডেন্টিস্ট,57,7,ওরাল এন্ড ডেন্টাল সার্জন
+FCPS,এফসিপিএস,Prosthodontics,Dentist,ডেন্টিস্ট,58,7,ওরাল এন্ড ডেন্টাল সার্জন
+MD,এমডি,Internal Medicine,Medicine,মেডিসিন,59,1,মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Cardiology,Cardiology,কার্ডিওলজি,60,5,হৃদরোগ বিশেষজ্ঞ
+MD,এমডি,Paediatrics,Paediatrics,শিশু,61,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Neurology,Neurology,নিউরোলজি,62,9,ব্রেইন ও স্নায়ুরোগ বিশেষজ্ঞ
+MD,এমডি,Nephrology,Nephrology,নেফ্রোলজি,63,10,কিডনী রোগ বিশেষজ্ঞ
+MD,এমডি,Endocrinology & Metabolism,Endocrinology,এন্ডোক্রাইনোলজি অ্যান্ড মেটাবোলিজম,64,13,"ডায়াবেটিস, থাইরয়েড ও হরমোন বিশেষজ্ঞ"
+MD,এমডি,Pulmonology,Pulmonology,পালমোনোলজি,65,14,বক্ষব্যাধি বিশেষজ্ঞ
+MD,এমডি,Dermatology and Venereology,Dermatology and Venereology,চর্ম ও যৌন,66,11,"এলার্জি, চর্ম ও যৌন রোগ বিশেষজ্ঞ"
+MD,এমডি,Gastroenterology,Gastroenterology,গ্যাস্ট্রোএন্টেরোলজি,67,15,পরিপাকতন্ত্র বিশেষজ্ঞ
+MD,এমডি,Haematology,Haematology,হেমাটোলজি,68,20,"রক্তরোগ, থ্যালাসেমিয়া ও ব্লাড ক্যান্সার বিশেষজ্ঞ"
+MD,এমডি,Hepatology,Hepatology,হেপাটোলজি,69,21,লিভার বিশেষজ্ঞ
+MD,এমডি,Rheumatology,Rheumatology,রিউম্যাটোলজি,70,22,বাত ব্যাথা ও রিউম্যাটোলজি বিশেষজ্ঞ
+MD,এমডি,Psychiatry,Psychiatry,সাইকিয়াট্রি,71,16,মনোরোগ বিশেষজ্ঞ
+MD,এমডি,Neonatology,Paediatrics,শিশু,72,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Radiology & Imaging,Radiology & Imaging,রেডিওলজি অ্যান্ড ইমেজিং,73,17,রেডিওলজিস্ট
+MD,এমডি,Child & Adolescent Psychiatry,Child & Adolescent Psychiatry,শিশু সাইকিয়াট্রি,74,40,শিশু মনোরোগ বিশেষজ্ঞ
+MD,এমডি,Nuclear Medicine,Nuclear Medicine,নিউক্লিয়ার মেডিসিন,75,31,নিউক্লিয়ার মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Oncology,Oncology,অনকোলজি,76,16,ক্যান্সার ও টিউমার রোগ বিশেষজ্ঞ
+MD,এমডি,Palliative Medicine,Palliative Medicine,প্যালিয়েটিভ মেডিসিন,77,61,প্যালিয়েটিভ মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Physical Medicine and Rehabilitation,Physical Medicine and Rehabilitation,ফিজিক্যাল মেডিসিন অ্যান্ড রিহ্যাবিলিটেশন,78,50,ফিজিক্যাল মেডিসিন অ্যান্ড রিহ্যাবিলিটেশন বিশেষজ্ঞ
+MD,এমডি,Radiation Oncology,Radiation Oncology,রেডিয়েশন অনকোলজি,79,61,রেডিয়েশন অনকোলজিস্ট
+MD,এমডি,Transfusion Medicine,Transfusion Medicine,ট্রান্সফিউশন মেডিসিন,80,53,ট্রান্সফিউশন মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Medical Oncology,Oncology,অনকোলজি,81,16,ক্যান্সার ও টিউমার রোগ বিশেষজ্ঞ
+MD,এমডি,Anaesthesiology,Anaesthesiology,অ্যানেস্থেসিওলজি,82,23,এনালজেসিয়া ও পেইন মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Critical Care Medicine,Critical Care Medicine,ক্রিটিক্যাল কেয়ার মেডিসিন,83,32,ক্রিটিকাল কেয়ার মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Paediatric Cardiology,Paediatrics,শিশু,84,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Paediatric Gastroenterology,Paediatrics,শিশু,85,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Paediatric Haematology & Oncology,Paediatrics,শিশু,86,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Paediatric Nephrology,Paediatrics,শিশু,87,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Paediatric Neurology & Neuro Development,Paediatrics,শিশু,88,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Paediatric Rheumatology,Paediatrics,শিশু,89,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MD,এমডি,Biochemistry,Biochemistry,বায়োকেমিস্ট্রি,90,72,বায়োকেমিস্ট
+MD,এমডি,Laboratory Medicine,Laboratory Medicine,ল্যাবরেটরি মেডিসিন,91,87,ল্যাবরেটরি মেডিসিন বিশেষজ্ঞ
+MD,এমডি,Microbiology,Microbiology,মাইক্রোবায়োলজি,92,71,মাইক্রোবায়োলজিস্ট
+MD,এমডি,Pathology,Pathology,প্যাথোলজি,93,89,প্যাথোলজিস্ট
+MD,এমডি,Pharmacology,Pharmacology,ফার্মাকোলজি,94,70,
+MD,এমডি,Physiology,Physiology,ফিজিওলজি,95,94,
+MD,এমডি,Virology,Virology,ভাইরোলজি,96,96,
+MD,এমডি,Immunology,Immunology,ইমিউনোলজি,97,97,
+MD,এমডি,Forensic Medicine,Forensic Medicine,ফরেনসিক মেডিসিন,98,98,
+MS,এমএস,General Surgery,Surgery,সার্জারি,99,3,জেনারেল ও ল্যাপারোস্কোপিক সার্জন
+MS,এমএস,Obstetrics and Gynecology,Obs and Gyne,গাইনি,100,2,প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ ও সার্জন
+MS,এমএস,Orthopedic Surgery,Orthopedic Surgery,অর্থোপেডিক সার্জারি,101,6,অর্থোপেডিক্স ও ট্রমা সার্জন
+MS,এমএস,Neuro-Surgery,Neuro-Surgery,নিউরো সার্জারি,102,24,ব্রেইন ও স্পাইন সার্জন
+MS,এমএস,Otolaryngology (Head & Neck Surgery),ENT,ই এন টি,103,12,"নাক, কান, গলা বিশেষজ্ঞ ও সার্জন"
+MS,এমএস,Cardiovascular & Thoracic Surgery,Cardiovascular & Thoracic Surgery,কার্ডিওভাসকুলার অ্যান্ড থোরাসিক সার্জারি,104,25,কার্ডিওভাসকুলার সার্জন
+MS,এমএস,Ophthalmology,Ophthalmology,চক্ষু,105,8,চক্ষু বিশেষজ্ঞ ও ফ্যাকো সার্জন
+MS,এমএস,Pediatric Surgery,Pediatric Surgery,শিশু সার্জারি,106,20,শিশু সার্জন
+MS,এমএস,Colorectal Surgery,Colorectal Surgery,কোলোরেকটাল সার্জারি,107,26,কোলোরেক্টাল সার্জন
+MS,এমএস,Hepatobiliary Surgery,Hepatobiliary Surgery,হেপাটোবিলিয়ারি সার্জারি,108,27,হেপাটোবিলিয়ারি সার্জন
+MS,এমএস,Urology,Urology,ইউরোলজি,109,19,"কিডনি, মূত্রনালি, মূত্রথলী বিশেষজ্ঞ ও সার্জন"
+MS,এমএস,Plastic Surgery,Plastic Surgery,প্লাস্টিক সার্জারি,110,28,বার্ন ও প্লাস্টিক সার্জন
+MS,এমএস,Reproductive Endocrinology and Infertility,Reproductive Endocrinology and Infertility,রিপ্রোডাকটিভ এন্ডোক্রাইনোলজি অ্যান্ড ইনফার্টিলিটি,111,35,বন্ধ্যাত্ব রোগ বিশেষজ্ঞ ও সার্জন
+MS,এমএস,Surgical Oncology,Surgical Oncology,সার্জিকাল অনকোলজি,112,36,ক্যান্সার সার্জারী বিশেষজ্ঞ ও সার্জন
+MS,এমএস,Thoracic Surgery,Thoracic Surgery,থোরাসিক সার্জন,113,29,বক্ষব্যাধি সার্জন
+MS,এমএস,Vascular Surgery,Vascular Surgery,ভাসকুলার সার্জারি,114,30,ভাসকুলার সার্জন
+MS,এমএস,Feto-maternal Medicine,Feto-maternal Medicine,ফিটো-ম্যাটারনাল মেডিসিন,115,37,ফিটো-ম্যাটারনাল মেডিসিন বিশেষজ্ঞ
+MS,এমএস,Gynecological Oncology,Gynecological Oncology,গাইনিকোলজিকাল অনকোলজি,116,38,স্ত্রীরোগ ক্যান্সার বিশেষজ্ঞ
+MS,এমএস,Community Ophthalmology,Community Ophthalmology,কমিউনিটি অপথালমোলজি,117,92,কমিউনিটি অপথালমোলজি বিশেষজ্ঞ
+MS,এমএস,Anatomy,Anatomy,এনাটমি,118,67,
+MS,এমএস,Conservative Dentistry and Endodontics,Dentist,ডেন্টিস্ট,119,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Oral and Maxillofacial Surgery,Dentist,ডেন্টিস্ট,120,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Orthodontics,Dentist,ডেন্টিস্ট,121,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Pedodontics,Dentist,ডেন্টিস্ট,122,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Prosthodontics,Dentist,ডেন্টিস্ট,123,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Oral & Maxillofacial Pathology,Dentist,ডেন্টিস্ট,124,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Oral Anatomy,Dentist,ডেন্টিস্ট,125,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Dental Pharmacology,Dentist,ডেন্টিস্ট,126,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Dental Materials,Dentist,ডেন্টিস্ট,127,7,ওরাল এন্ড ডেন্টাল সার্জন
+MS,এমএস,Periodontology,Dentist,ডেন্টিস্ট,128,7,ওরাল এন্ড ডেন্টাল সার্জন
+MCPS,এমসিপিএস,Medicine,Medicine,মেডিসিন,129,1,মেডিসিন বিশেষজ্ঞ
+MCPS,এমসিপিএস,Obstetrics & gynaecology,Obs & gynae,গাইনি,130,2,প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ ও সার্জন
+MCPS,এমসিপিএস,Surgery,Surgery,সার্জারি,131,3,জেনারেল ও ল্যাপারোস্কোপিক সার্জন
+MCPS,এমসিপিএস,Paediatrics,Paediatrics,শিশু,132,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+MCPS,এমসিপিএস,Otolaryngology,ENT,ই এন টি,133,12,"নাক, কান, গলা বিশেষজ্ঞ ও সার্জন"
+MCPS,এমসিপিএস,Ophthalmology,Ophthalmology,চক্ষু,134,8,চক্ষু বিশেষজ্ঞ ও ফ্যাকো সার্জন
+MCPS,এমসিপিএস,Psychiatry,Psychiatry,সাইকিয়াট্রি,135,16,মনোরোগ বিশেষজ্ঞ
+MCPS,এমসিপিএস,Anaesthesiology,Anaesthesiology,অ্যানেস্থেসিওলজি,136,23,এনালজেসিয়া ও পেইন মেডিসিন বিশেষজ্ঞ
+MCPS,এমসিপিএস,Transfusion Medicine,Transfusion Medicine,ট্রান্সফিউশন মেডিসিন,137,53,ট্রান্সফিউশন মেডিসিন বিশেষজ্ঞ
+MCPS,এমসিপিএস,Forensic Medicine,Forensic Medicine,ফরেনসিক মেডিসিন,138,98,
+Diploma,ডিপ্লোমা,Cardiology (D.Card.),Cardiology,কার্ডিওলজি (ডি.কার্ড.),139,5,হৃদরোগ বিশেষজ্ঞ
+Diploma,ডিপ্লোমা,Child Health (DCH),Paediatrics,শিশু,140,4,"নবজাতক, শিশু ও কিশোর রোগ বিশেষজ্ঞ"
+Diploma,ডিপ্লোমা,Dermatology & Venereology (DDV),Dermatology and Venereology,চর্ম ও যৌন,141,11,"এলার্জি, চর্ম ও যৌন রোগ বিশেষজ্ঞ"
+Diploma,ডিপ্লোমা,Obstetrics & Gynecology (DGO),Obs & Gynae,গাইনি,142,2,প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ ও সার্জন
+Diploma,ডিপ্লোমা,Otolaryngology (DLO),ENT,ই এন টি,143,12,"নাক, কান, গলা বিশেষজ্ঞ ও সার্জন"
+Diploma,ডিপ্লোমা,Ophthalmology,Ophthalmology,চক্ষু,144,8,চক্ষু বিশেষজ্ঞ ও ফ্যাকো সার্জন
+Diploma,ডিপ্লোমা,Orthopaedic Surgery (D.Ortho),Orthopaedic Surgery (D.Ortho),অর্থোপেডিক সার্জারি (ডি.অর্থো),145,6,অর্থোপেডিক্স ও ট্রমা সার্জন
+Diploma,ডিপ্লোমা,Anaesthesiology (DA),Anaesthesiology (DA),অ্যানেস্থেসিওলজি,146,23,এনালজেসিয়া ও পেইন মেডিসিন বিশেষজ্ঞ
+Diploma,ডিপ্লোমা,"Blood, Serology & Transfusion (BS&T)","Blood, Serology & Transfusion (BS&T)","ব্লাড, সিরোলজি অ্যান্ড ট্রান্সফিউশন (বিএসঅ্যান্ডটি)",147,77,ট্রান্সফিউশন মেডিসিন বিশেষজ্ঞ
+Diploma,ডিপ্লোমা,Endocrinology & Metabolism,Endocrinology,এন্ডোক্রাইনোলজি অ্যান্ড মেটাবোলিজম,148,13,"ডায়াবেটিস, থাইরয়েড ও হরমোন বিশেষজ্ঞ"
+Diploma,ডিপ্লোমা,Tuberculosis and Chest Disease,Medicine,মেডিসিন,149,1,মেডিসিন বিশেষজ্ঞ
+Diploma,ডিপ্লোমা,Forensic Medicine,Forensic Medicine,Would you like me to add the Bangla explanations next to each (e.g. “রক্ত ও রক্তরোগ বিশেষজ্ঞ”) in the next step? I can make a,150,,
+Diploma,ডিপ্লোমা,Laboratory Medicine,Laboratory Medicine,,151,,
+Diploma,ডিপ্লোমা,Health Professional Education,Health Professional Education,Would you like me to add the Bangla explanations next to each (e.g. “রক্ত ও রক্তরোগ বিশেষজ্ঞ”) in the next step? I can make a,152,,
+Diploma,ডিপ্লোমা,Medical Radio Diagnosis (DMRD),Medical Radio Diagnosis (DMRD),মেডিকেল রেডিও ডায়াগনসিস (ডিএমআরডি),153,80,
+Diploma,ডিপ্লোমা,Community Ophthalmology (DCO),Community Ophthalmology (DCO),কমিউনিটি চক্ষুবিদ্যা (ডিসিও),154,81,
+Diploma,ডিপ্লোমা,Dental Surgery,Dentist,ডেন্টিস্ট,155,7,ওরাল এন্ড ডেন্টাল সার্জন
+M.Phil,এমফিল,Anatomy,Anatomy,এনাটমি,156,67,
+M.Phil,এমফিল,Biochemistry,Biochemistry,বায়োকেমিস্ট্রি,157,72,বায়োকেমিস্ট
+M.Phil,এমফিল,Microbiology,Microbiology,মাইক্রোবায়োলজি,158,71,মাইক্রোবায়োলজিস্ট
+M.Phil,এমফিল,Pharmacology,Pharmacology,ফার্মাকোলজি,159,70,
+M.Phil,এমফিল,Physiology,Physiology,ফিজিওলজি,160,76,
+M.Phil,এমফিল,Preventive & Social Medicine,Preventive & Social Medicine,প্রতিরোধমূলক ও সামাজিক চিকিৎসা,161,99,
+MPH,এমপিএইচ,Community Medicine,Community Medicine,কমিউনিটি মেডিসিন,162,66,
+MPH,এমপিএইচ,Community Nutrition,Community Nutrition,কমিউনিটি পুষ্টি,163,,
+MPH,এমপিএইচ,Epidemiology,Epidemiology,মহামারীবিদ্যা,164,,
+MPH,এমপিএইচ,Hospital Management,Hospital Management,হাসপাতাল ব্যবস্থাপনা,165,,
+MPH,এমপিএইচ,Health Promotion and Health Education,Health Promotion and Health Education,স্বাস্থ্য প্রচার ও স্বাস্থ্য শিক্ষা,166,,
+MPH,এমপিএইচ,Health Service Management and Policy,Health Service Management and Policy,স্বাস্থ্যসেবা ব্যবস্থাপনা ও নীতি,167,,
+MPH,এমপিএইচ,Non Communicable Diseases,Non Communicable Diseases,অসংক্রামক রোগ,168,,
+MPH,এমপিএইচ,Occupational and Environmental Health,Occupational and Environmental Health,পেশাগত ও পরিবেশগত স্বাস্থ্য,169,,
+MPH,এমপিএইচ,Reproductive and Child Health,Reproductive and Child Health,প্রজনন ও শিশু স্বাস্থ্য,170,,
+MRCP,এমআরসিপি,Medicine,Medicine,মেডিসিন,171,1,মেডিসিন বিশেষজ্ঞ
+MRCS,এমআরসিএস,Surgery,Surgery,সার্জারি,172,3,জেনারেল ও ল্যাপারোস্কোপিক সার্জন
+FRCP,এফআরসিপি,Medicine,Medicine,মেডিসিন,173,1,মেডিসিন বিশেষজ্ঞ
+FRCS,এফআরসিএস,Surgery,Surgery,সার্জারি,174,3,জেনারেল ও ল্যাপারোস্কোপিক সার্জন
+MRCOG,এমআরসিওজি,Obstetrics & Gynaecology,Obs & Gynae,গাইনি,175,2,প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ ও সার্জন
+FRCOG,এফআরসিওজি,Obstetrics & Gynaecology,Obs & Gynae,গাইনি,176,2,প্রসূতি ও স্ত্রী রোগ বিশেষজ্ঞ ও সার্জন
